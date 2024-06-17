@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Eu sou Felipe Francisco Machado</h1>
-<h3 align="center">Utilizo dados (Analise de BI, Analise de Dados e Ciência de Dados) mecanismo de aumento da eficiência da operação</h3>
+<h3 align="center">Utilizo dados (Analise de BI, Analise de Dados e Ciência de Dados) como mecanismo de aumento da eficiência da operação</h3>
 
 - 🔭 Atualmente estou liderando uma operação como C.O.O. (Diretor de Operações), definindo os objetos das equipes, realizando análises e visualizações de dados no **Tecimob**
 
