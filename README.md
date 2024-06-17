@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, Eu sou Felipe Francisco Machado</h1>
-<h3 align="center">Apaixonado pelo mundo de dados e por Analises de BI, Analise de Dados e Ciência de Dados</h3>
+<h1 align="center">Olá, Eu sou Felipe Francisco Machado</h1>
+<h3 align="center">Utilizo dados (Analise de BI, Analise de Dados e Ciência de Dados) mecanismo de aumento da eficiência da operação</h3>
 
-- 🔭 Atualmente estou trabalhando como Diretor de Operações e realizando análises e visualizações de dados no **Tecimob**
+- 🔭 Atualmente estou liderando uma operação como C.O.O. (Diretor de Operações), definindo os objetos das equipes, realizando análises e visualizações de dados no **Tecimob**
 
 - 🌱 Atualmente estou aprendendo **Técnicas Estatísticas, SQL Avançado, Excel Avançado, Power BI Avançado e Python**
 
